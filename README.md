@@ -85,7 +85,7 @@ Average time spent retrieving data from backing store: 5.537 millisec
 If LRU is selected, program displays to console:
 
 ```
-Welcome to Don's VM Simulator Version 1.0
+
 Number of logical pages: 256
 Page size: 256 bytes
 Page Table Size: 256
